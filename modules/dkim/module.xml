@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
-    <name>DKIM Generator</name>
+    <name>DKIM</name>
     <version>100</version>
     <defaultcat>Mail</defaultcat>
     <desc>Use DKIM Generator to put the TXT DNS Record and prevent your e-mail be identified as Spoofing SPAM</desc>
