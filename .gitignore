@@ -58,3 +58,4 @@ modules/*
 !modules/webalizer_stats/
 !modules/webmail/
 !modules/zpx_core_module/
+!modules/dkim/

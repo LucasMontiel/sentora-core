@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>DKIM Generator</name>
+    <version>100</version>
+    <defaultcat>Mail</defaultcat>
+    <desc>Use DKIM Generator to put the TXT DNS Record and prevent your e-mail be identified as Spoofing SPAM</desc>
+    <authorname>Lucas Montiel</authorname>
+    <authoremail>lcsmontiel@gmail.com</authoremail>
+    <authorurl>https://github.com/LucasMontiel</authorurl>
+    <updateurl>https://github.com/LucasMontiel/sentora-core</updateurl>
+</module>
