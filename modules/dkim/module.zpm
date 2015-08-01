@@ -12,7 +12,6 @@
 
     </div>
 
-    <@ Result @>
 
-    <@ RecordAction @>
+    <@ Teste @>
 </div> <!-- END zmodule_content + panel -->

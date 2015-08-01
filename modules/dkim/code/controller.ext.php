@@ -28,7 +28,7 @@
  */
 class module_controller extends ctrl_module
 {
-    static function teste()
+    static function getTeste()
     {
         return 'teste';
     }
