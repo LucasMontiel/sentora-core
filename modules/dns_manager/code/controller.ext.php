@@ -1262,4 +1262,9 @@ class module_controller extends ctrl_module
         }
     }
 
+    static function testeAction(){
+        $line = "TESTE";
+        return $line;
+    }
+
 }
